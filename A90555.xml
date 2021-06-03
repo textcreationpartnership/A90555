@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition &amp; presentment of the grand-juries of the county of York, for the demolishing of Pontefract and Midlam Castles, and for taking off free-quarter in that county. Together with a letter from the gentlemen of that county, sent to the Honorable William Lenthal Esq; speaker of the Honorable House of Commons. Die Martis, 27 Martii, 1649. Ordered by the Commons assembled in Parliament, that this petition and presentment of the grand-juries of the county of York, together with the letter from the gentlemen of the said county, be forthwith printed and published. Hen: Scobell, Cleric. Parliament'</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90555</idno><idno type="EEBO-CITATION">99864932</idno>
+  <idno type="VID">164998</idno>
+  <idno type="EEBO-PROQUEST">2240919861</idno>
+  
+            <idno type="STC">Wing P1738</idno>
+            <idno type="STC">Thomason E548_26</idno>
+            <idno type="STC">ESTC R205595</idno>
+            <idno type="PROQUEST">99864932</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864932e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90555)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164998)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E548[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition &amp; presentment of the grand-juries of the county of York, for the demolishing of Pontefract and Midlam Castles, and for taking off free-quarter in that county. Together with a letter from the gentlemen of that county, sent to the Honorable William Lenthal Esq; speaker of the Honorable House of Commons. Die Martis, 27 Martii, 1649. Ordered by the Commons assembled in Parliament, that this petition and presentment of the grand-juries of the county of York, together with the letter from the gentlemen of the said county, be forthwith printed and published. Hen: Scobell, Cleric. Parliament'</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the Honorable House of Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>March 29. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Pontefract Castle (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Midlam Castle --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164998:1"/>
+            <p>THE Petition &amp; Presentment OF THE Grand-Juries of the County of YORK, For the demolishing of <hi>Pontefract</hi> and <hi>Midlam</hi> Castles, AND For taking off Free-quarter in that County.</p>
+            <p>Together with A LETTER from the Gentlemen of that County, sent to the Honorable <hi>William Lenthal</hi> Esq; Speaker of the Honorable House of Commons.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Martis, 27 Martii, 1649.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Commons assembled in Parliament, That this Petition and Presentment of the Grand-Juries of the County of</hi> York, <hi>together with the Letter from the Gentlemen of the said County, be forthwith Printed and Published.</hi>
+                        </p>
+                        <closer>
+                           <signed>Hen: Scobell, Cleric. Parliament</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Husband,</hi> Printer to the Ho<g ref="char:EOLhyphen"/>norable House of Commons. <hi>March</hi> 29. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:164998:2"/>
+            <pb n="3" facs="tcp:164998:2"/>
+            <head>For the Honorable <hi>William Lenthal</hi> Esq; Speaker of the Honorable House of Commons in Parliament.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe Presentment and Petition herewith inclosed, were this day delivered to us by the Grand-Juries, serving at these Assizes for this County, with their request (in case we should approve of the matters contained in them) to assist them in the Presentment of them to the House, and procuring speedy Orders upon their Desires; Whereupon we appointed a meeting to peruse and consider of the Papers, which we have done, and cannot do less then to offer them to you as matters very worthy your considera<g ref="char:EOLhyphen"/>tion, and conducing to the case, quiet, and exceeding great contentment of all the well-affected party of this County: And we hope the Requests will appear to the House, both so convenient and so necessary, as may induce their Wisdoms to give speedy Order to have the peoples Expectations and Pe<g ref="char:EOLhyphen"/>titions therein to be effected, which we humbly recommend unto on, as the earnest Desires of, Sir,</p>
+            <closer>
+               <dateline>
+                  <date>23 Martii, 1648.</date>
+               </dateline>
+               <signed>Your most Affectionate and humble Servants,
+<list>
+                     <item>
+                        <hi>William St. Quintin.</hi>
+                     </item>
+                     <item>
+                        <hi>William S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rickland.</hi>
+                     </item>
+                     <item>
+                        <hi>William Allenson.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Stockdale.</hi>
+                     </item>
+                     <item>
+                        <hi>George Eure.</hi>
+                     </item>
+                     <item>
+                        <hi>Da: Wentworth.</hi>
+                     </item>
+                     <item>
+                        <hi>Edw: Rodes.</hi>
+                     </item>
+                     <item>
+                        <hi>John Clapton.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Johnson.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Mauleverer.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Berwick.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Darley.</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Lassels:</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Tempest.</hi>
+                     </item>
+                     <item>
+                        <hi>John Lister.</hi>
+                     </item>
+                     <item>
+                        <hi>John Farrer.</hi>
+                     </item>
+                     <item>
+                        <hi>Ra: Rimore.</hi>
+                     </item>
+                     <item>
+                        <hi>J: Anlaby.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="4" facs="tcp:164998:3"/>
+            <head>To the Right Honorable, THE <hi>COMMONS</hi> of <hi>ENGLAND</hi> IN Parliament Assembled:</head>
+            <head type="sub">
+               <hi>The humble Petition of the two Grand Inquests for the County of</hi> York, <hi>at the Assizes held at the Castle there the 19 of March,</hi> 1648.</head>
+            <opener>Sheweth,</opener>
+            <p>THa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we do with al thankfulness acknowledge the high things God hath done for you and by you, hoping he will still own you in all your Actings, and for the per<g ref="char:EOLhyphen"/>fect recovering of our Liberties, lost in the long Suc<g ref="char:EOLhyphen"/>cession of Tyranny, in pursuance of which you may expect our cordial compliance and unanimous juncture with you: We do look upon you as Restorers of our Liberties, in which relation we offer these our humble Desires to your Honorable conside<g ref="char:EOLhyphen"/>rations,</p>
+            <p>That we have drunk deep of the cup of affliction for these seven years last past, and signally suffered by the Scotish Na<g ref="char:EOLhyphen"/>tion, whose rod we again fear, considering their contrary acting and clandestine practices, our earnest, but humble suit is, That if the Scots shall ingage in a new War against <hi>England,</hi> the War may be carried to their own doors, and that they may rather fear us at <hi>Edinburgh,</hi> then we them at <hi>Yorke;</hi> and that all such degenerate Spirits, and Betrayers of our Liberty, which
+<pb n="5" facs="tcp:164998:3"/> now are fled, or shall fly into <hi>Scotland</hi> or any other part, may for ever lose those high Priviledges which we hope all the Free-born Englishmen shall enjoy.</p>
+            <p>That this day God hath delivered the Grand fatal Delin<g ref="char:EOLhyphen"/>quent to her Country (<hi>Pontefract</hi> Castle) by your Forces un<g ref="char:EOLhyphen"/>der the command of that Vigilant and Faithful Commander Major General <hi>Lambert,</hi> being now put into our hands, the price of much Treasure, and more Blood; we humbly crave, That those walls which have harbored so much Tyranny and Oppression, may not stand, but be levelled with the ground, that this Nest and Cage of all Villany may be destroyed, that those unclean Birds which have now left it, may never roost themselves again there.</p>
+            <p>And whereas the very demolishing of it, will draw with it an immense charge upon an exhausted Country, we further pray this Honorable Parliament, so far to commiserate our poor Country, that Order may be given for the sale of the mate<g ref="char:EOLhyphen"/>rials in it, to help to demolish it self: And we make further bold to acquaint you, That this will be rescented as an act of so great Mercy and Justice, that you may thereby gain a strong<g ref="char:EOLhyphen"/>er hold in the affections of our poor Countreymen, to whom for these seven years last, it hath been so great a scourge and terror: We also humbly offer to your consideration <hi>Midlam</hi> Castle, lately a Garison, that it may be made untenable, and no longer fit for a Garison, at the Countrys charge, the ma<g ref="char:EOLhyphen"/>terials being restored to the Owner.</p>
+            <p>That the Country paying their Assessments, the burthen of Free-quarter may be taken off, and that none shall presume to quarter upon any private person: And that as some have been for their Malignancy and Tyranny made Examples, to the terror of all who shall attempt the like; so those worthy Patriots, who have hazarded their Lives and Estates in dis<g ref="char:EOLhyphen"/>charge of their several and faithful Trusts for the Liberties of the Nation, may be rewarded according to your several for<g ref="char:EOLhyphen"/>mer Declarations.</p>
+            <p>We confess the Spirits of many are much cheared up, that the course of Justice is not interrupted, but the due execution of Law continued, according to the Trust committed to our
+<pb n="6" facs="tcp:164998:4"/> worthy Countrymen at the Assizes, whose fidelity and great prudence we cannot but modestly take notice of.</p>
+            <p>Lastly and principally we humbly pray, That Commissioners in this County be impowered, to make inquiry of the Igno<g ref="char:EOLhyphen"/>rant, Scandalous and Malignant Ministers, to displace them upon conviction, and to place godly and painful men in their rooms; this County being so long infested, and God so long dishonored by Prophane, Ignorant, Scandalous, Superstitious and Malignant Ministers.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Thomas Styringe.</hi>
+                     </item>
+                     <item>
+                        <hi>Ric: Frank.</hi>
+                     </item>
+                     <item>
+                        <hi>William Dalton.</hi>
+                     </item>
+                     <item>
+                        <hi>William Rowsby.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho: Hardey.</hi>
+                     </item>
+                     <item>
+                        <hi>Ra: Elyesson.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Lowson.</hi>
+                     </item>
+                     <item>
+                        <hi>John Hindsley.</hi>
+                     </item>
+                     <item>
+                        <hi>Ric: Manby.</hi>
+                     </item>
+                     <item>
+                        <hi>William Langthorn.</hi>
+                     </item>
+                     <item>
+                        <hi>Cha: Campleshony.</hi>
+                     </item>
+                     <item>
+                        <hi>John Wythes.</hi>
+                     </item>
+                     <item>
+                        <hi>Isaac Newton.</hi>
+                     </item>
+                     <item>
+                        <hi>John Peirse.</hi>
+                     </item>
+                     <item>
+                        <hi>John Ellis.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Stoop.</hi>
+                     </item>
+                     <item>
+                        <hi>Ralph Wilberfoss.</hi>
+                     </item>
+                     <item>
+                        <hi>William Gaithorn.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Wolf.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho: Myers.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo: Langthorn.</hi>
+                     </item>
+                     <item>
+                        <hi>John Johnson.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Wildon.</hi>
+                     </item>
+                     <item>
+                        <hi>Benj. Jackson.</hi>
+                     </item>
+                     <item>
+                        <hi>Natha: Eyre.</hi>
+                     </item>
+                     <item>
+                        <hi>William Holdesworeh.</hi>
+                     </item>
+                     <item>
+                        <hi>William Develary.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="7" facs="tcp:164998:4"/>
+            <opener>
+               <dateline>At the General Assizes holden at <hi>York.</hi>
+                  <date>
+                     <hi>19 Martii,</hi> 1648.</date>
+               </dateline> The Grand-Juries of this County, in the behalf of the County, do present,</opener>
+            <p>THat the Castle of <hi>Pontefract</hi> from the beginning of the late Wars, hath been a continual great oppression and grievance to the County.</p>
+            <p>That while it was in the Enemies hand, it was a Nest of Robbers and Destroyers of the People, and did cost the Country many thousands to regain it.</p>
+            <p>That while it was in the hands of our friends, it was a heavy and useless burthen to the Neighbors, and in the end was be<g ref="char:EOLhyphen"/>trayed back into the hands of our Enemies.</p>
+            <p>That it hath of late, and since that last Treachery, cost above 200000 l. to regain it again.</p>
+            <p>That to prevent the like insupportable miseries as we have formerly suffered, and may possibly suffer again, it is the earn<g ref="char:EOLhyphen"/>est desire of these Grand▪ Juries, in behalf of themselves and the rest of the County, That the said Castle may be pulled down, and totally sleighted, and that the County may have the Materials for doing it.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Isaac Newton.</hi>
+                     </item>
+                     <item>
+                        <hi>John Peirse.</hi>
+                     </item>
+                     <item>
+                        <hi>John Ellis.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Myers.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Stoop.</hi>
+                     </item>
+                     <item>
+                        <hi>Ralph Wilberfoss.</hi>
+                     </item>
+                     <item>
+                        <hi>William Gaithorn.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Wildon.</hi>
+                     </item>
+                     <item>
+                        <hi>Benj. Iackson.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Wolf.</hi>
+                     </item>
+                     <item>
+                        <hi>Nath. Eyre.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Hardey.</hi>
+                     </item>
+                     <item>
+                        <hi>Chr. Parker.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Styringe.</hi>
+                     </item>
+                     <item>
+                        <hi>Ric: Franck.</hi>
+                     </item>
+                     <item>
+                        <hi>William Dalton.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Wythes.</hi>
+                     </item>
+                     <item>
+                        <hi>Ric: Manby.</hi>
+                     </item>
+                     <item>
+                        <hi>Cha: Champleshony.</hi>
+                     </item>
+                     <item>
+                        <hi>Io: Cowpen.</hi>
+                     </item>
+                     <item>
+                        <hi>William Rowsby.</hi>
+                     </item>
+                     <item>
+                        <hi>William Langthorn.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Lowson.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Hindesley.</hi>
+                     </item>
+                     <item>
+                        <hi>Ra: Elyesson.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
